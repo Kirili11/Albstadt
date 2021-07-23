@@ -29,7 +29,7 @@
 - Kinobestuhlung
 - Lampen
 - Bilder
-- 
+- Gardinen
 - 
 - 
 
