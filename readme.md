@@ -55,7 +55,7 @@
 - BRW 120 €/qm
 - Eisentalstr. 38/1 wurde verkauft für 95 €/qm
 - Holunderweg steht zum Verkauf für 90 €/qm
-- wären bereit 100.000€ zu zahlen
+- wären bereit 100.000€ zu zahlen -- sind wir das?
 
 ## nice to know
 
