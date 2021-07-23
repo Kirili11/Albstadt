@@ -1,5 +1,23 @@
 # Albstadt - Fragen an Kupka
 
+## Nebenkosten
+- Grundsteuer
+- Versicherung
+- Abfall
+- Strom
+- Wasser
+- 
+
+## Nachbarn
+-
+-
+-
+
+## Internet
+- 100 MBit?
+- Verkabelung im Haus
+- 
+
 ## Smarthome / Gebäudeautomation
 - autom. Heizungssteuerung via Smartphone-App. 
   - Homematic IP?
